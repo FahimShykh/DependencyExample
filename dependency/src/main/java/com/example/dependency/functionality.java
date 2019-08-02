@@ -12,6 +12,7 @@ public class functionality {
             Log.e(TAG, str);
             Log.e(TAG, "Successful");
             Log.e(TAG, "Successful build 2");
-            
+            Log.e(TAG, "Successful build 3");
+
         }
 }
