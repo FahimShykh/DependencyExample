@@ -10,5 +10,7 @@ public class functionality {
 
         public functionality(String str) {
             Log.e(TAG, str);
+            Log.e(TAG, "Successful");
+
         }
 }
