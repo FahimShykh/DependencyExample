@@ -1,0 +1,14 @@
+package com.example.dependency;
+
+import android.util.Log;
+
+public class functionality {
+        public static final String TAG = "Liberary App";
+
+        public functionality() {
+        }
+
+        public functionality(String str) {
+            Log.e(TAG, str);
+        }
+}
